@@ -1,4 +1,4 @@
-# InheritanceTurtleBank
+# FriendlyTurtleBank
 [Banking] Create, withdraw/deposit, and display all bank accounts. Utilizing inheritance model.
 
 CISP21 Java Programming - Project 8
