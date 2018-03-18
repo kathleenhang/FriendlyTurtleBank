@@ -1,5 +1,5 @@
 # FriendlyTurtleBank
-[Banking] Create, withdraw/deposit, and display all bank accounts. Utilizing inheritance model.
+[Banking] Allows user to create new bank accounts, process withdrawals/deposit transactions, and displays all accounts within the system.
 
 CISP21 Java Programming - Project 8
 
